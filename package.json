@@ -1,0 +1,30 @@
+{
+    "name": "jssateb-journal-frontend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+    },
+    "author": "VarunSAthreya & Sandeep M",
+    "license": "ISC",
+    "dependencies": {
+        "@material-ui/core": "^4.12.3",
+        "@material-ui/icons": "^4.11.2",
+        "next": "^12.1.0",
+        "react": "^17.0.2",
+        "react-confetti": "^6.0.1",
+        "react-dom": "^17.0.2",
+        "react-hook-form": "^7.15.4",
+        "react-use": "^17.3.1"
+    },
+    "devDependencies": {
+        "eslint": "^8.23.1",
+        "eslint-config-prettier": "^8.3.0",
+        "eslint-plugin-prettier": "^4.0.0",
+        "eslint-plugin-react": "^7.25.1",
+        "prettier": "^2.3.2"
+    }
+}
