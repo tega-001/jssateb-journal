@@ -21,103 +21,70 @@ const useStyles = makeStyles((theme) => ({
 
 const paperData = [
     {
-        authors:
-            'Nawaz Mubashir , RafiqAhmed Mir, Amir Rashid Purra, Fayaz Ahmed Ahnger, Ruqaya Rashid, Nazifa javaid ',
-        title: '“Effect of ultrasonic agitation and preheating on marginal adaptation of bulk fill composites. An In vitro OCT (Optical Coherence Tomography) study”',
+        authors: 'Ryan Gupta , Varsha R , Yuktha B Ramji, Suja Jayan',
+        title: '“Chatbot for Ordering System”',
         page: '05-09',
-        link: '/journal/vol2-issue-2/“Effect of ultrasonic agitation and preheating on marginal adaptation of bulk fill composites. An In vitro OCT (Optical Coherence Tomography) study”.pdf',
+        link: '/journal/rejssjournal/paper_16.pdf',
     },
     {
-        authors: 'Kavyashree K L, Vanishree Arun, Mamatha M, Shashikala B M',
-        title: 'Cropilizer-A Recommender System',
+        authors: 'Pranava C Hiremath, Varsha R, Sreenivas Gurram , Rohith B',
+        title: 'SPEAR(Split Panel Engine for Automatic Rendering):An innovative AI-Powered Web Development Assistanr',
         page: '10-13',
-        link: 'journal/vol2-issue-2/Cropilizer-A Recommender System.pdf',
+        link: '/journal/rejssjournal/paper_17.pdf',
     },
     {
-        authors:
-            'Tanisha Agarwal, Student, Mr. Rahul Kumar Gupta, Assistant Professor, Anushka Srivastava, Student, Dr. Arun Kumar G, Professor',
-        title: 'IoT Health Monitoring System with Android App',
+        authors: 'Anoop N Prasad,Shree Vibha S,Harshita AB',
+        title: 'AI Driven Chatbot for Personalised Student and Parent Support',
         page: '14-18',
-        link: '/journal/vol2-issue-2/IoT Health Monitoring System with Android App.pdf',
+        link: '/journal/rejssjournal/paper_21.pdf',
     },
     {
-        authors: 'Kavya Pujar, Tejaswini N, Shashikala B M, Vanishree Arun',
-        title: 'ECG Analysis for the detection of cardiac arrhytmia',
+        authors:
+            'Mrs. Ramya B N, Mr. Adithya K,Mr. Dayanand K , Ms. Janhavi P , Ms. Koyilada Jahnavi',
+        title: 'A Novel AI-Driven Multimodal Deepfake Detection Using Temporal Dynamics, and Gaze Consistency Analysis',
         page: '19-22',
-        link: '/journal/vol2-issue-2/ECG Analysis for the detection of cardiac arrhytmia.pdf',
+        link: '/journal/rejssjournal/paper_23.pdf',
     },
     {
-        authors: 'Dr. Bhanumathi K S Dharithri K V, Sagar P, Shreya Metri',
-        title: 'GSM Based Health Monitoring System',
+        authors:
+            'Dr. Manjunath HR,Mr. Aniruddha H D, Ms. Priya R Vishwaroop , Mr. Rahul V , Ms. Sriraksha S ',
+        title: 'A Novel Middleware Framework For Enhancing LLM Security',
         page: '23-27',
-        link: '/journal/vol2-issue-2/GSM Based Health Monitoring System.pdf',
+        link: '/journal/rejssjournal/paper_24.pdf',
     },
     {
         authors:
-            'Bhushan L, Skanda S Rao, Aditya R Patil, Shivani, Dr Jamuna S',
-        title: `Design and Implementation of RC Controlled Spy Car`,
+            'Ramya B N , Diya K Bhat , Vivin Jayanth A M , Samarth S L , Sudarshan D J',
+        title: `A Location-Intelligent, Budget-Centric Restaurant Recommender Using Probabilistic Clustering`,
         page: '28-33',
-        link: '/journal/vol2-issue-2/Design and Implementation of RC Controlled Spy Car.pdf',
+        link: '/journal/rejssjournal/paper_31.pdf',
     },
     {
         authors:
-            'Dr.Saroja S Bhusare , Dr.Veeramma Yathnalli, Prerana D Swamy, Pruthvi K, Rakshita M, S Meenakshi',
-        title: 'Computer Cursor Control using Facial Gestures for Physically Challenged',
+            'Ramya B N, Mayur N , Sai Sharan R S , J Sanjana , Tejaswini M',
+        title: "A Dual Mode Framework for StageWise Detection and Treatment Simulation of Alzheimer's Disease Using CNN and Reinforcement Learning",
         page: '34-39',
-        link: '/journal/vol2-issue-2/Computer Cursor Control using Facial Gestures for Physically Challenged.pdf',
+        link: '/journal/rejssjournal/paper_33.pdf',
     },
     {
         authors:
-            'Deepika AJ, BM Yashaswini, Haritha D, Anjum Afsha Syed, Dr. Veeramma Yatnalli, Dr. Saroja S Bhusare',
-        title: `Voice Control IoT Home Automation using Bluetooth Module`,
+            'Meghana Pradeep , Dhanu B L , Akshata Prasad , Prof. Yashaswini C D ',
+        title: `HirEase: A Unified AI-Powered Platform for Streamlined Technical Hiring`,
         page: '40-46',
-        link: '/journal/vol2-issue-2/Voice Control IoT Home Automation using Bluetooth Module.pdf',
+        link: '/journal/rejssjournal/paper_36.pdf',
     },
     {
-        authors: 'Suguna G C, S T Veerabhadrappa, Srushti S',
-        title: 'Convulational neural networks for identification of disease in cotton plant',
+        authors: 'Anand Kumar B , Sukruth S , Kavya B R',
+        title: 'Smart Gas Guardian: Gas Monitoring and Alert System',
         page: '47-51',
-        link: '/journal/vol2-issue-2/Convulational neural networks for identification of disease in cotton plant.pdf',
+        link: '/journal/rejssjournal/paper_40.pdf',
     },
     {
-        authors: 'Imran Khan, Suchithra HK, Sindhu U, Kirankumar B',
-        title: `Design and Comparative Analysis of Micro strip Patch Antenna at 2.4GHz for wireless Applications`,
+        authors:
+            'Meghana Pradeep , Keerthan M , Akshatha Prasad , Manith Gowda K R , Prof Yashaswini C D ',
+        title: `Sherpa: A Safety-Driven Navigation Platform Using REal-Time Crime Analytics and Community Reporting`,
         page: '52-61',
-        link: '/journal/vol2-issue-2/Design and Comparative Analysis of  Micro strip Patch Antenna at 2.4GHz for wireless Applications.pdf',
-    },
-    {
-        authors:
-            'Prof. Anitha C G Assistant Professor ,Adarsh Y N, Ankith M, Ankitha M S, Chiranthan P Gowda',
-        title: `IOT Enabled Vehicle Parking System`,
-        page: '62-67',
-        link: '/journal/vol2-issue-2/IOT Enabled Vehicle Parking System.pdf',
-    },
-    {
-        authors: 'Murali S Bharadwaja, Dr. Jamuna S',
-        title: `Exploring Circuit Modeling and Radiation Effects using SPICE`,
-        page: '68-73',
-        link: '/journal/vol2-issue-2/Exploring Circuit Modeling and Radiation Effects using SPICE.pdf',
-    },
-    {
-        authors:
-            'Kavitha M, Sheela S N, Akshay Narasimha R V, Akarsh S, Kishore C, Mohan kumar V',
-        title: `Gesture Controlled Robot Using Arduino`,
-        page: '74-76',
-        link: '/journal/vol2-issue-2/Gesture Controlled Robot Using Arduino.pdf',
-    },
-    {
-        authors:
-            'Vishwas G Rao ,Sowmya M S , Chandini C , Vinay M , Yamini K J',
-        title: `Implementation of solar energy and IoT for water waste management: A review`,
-        page: '77-83',
-        link: '/journal/vol2-issue-2/Implementation of solar energy and IoT for water waste management A review.pdf',
-    },
-    {
-        authors:
-            'Prajwal V , Samarth R Bogar , Shambhavi Jagadeesh , Vishwas R , D V Ashoka',
-        title: `Integration of Edge Detection and Machine Learning Techniques in Smart Traffic Management`,
-        page: '84-91',
-        link: '/journal/vol2-issue-2/Integration of Edge Detection and Machine  Learning Techniques in Smart Traffic Management.pdf',
+        link: '/journal/rejssjournal/paper_44.pdf',
     },
 ];
 
@@ -149,10 +116,48 @@ const specialissue = () => {
                             className={classes.caption}
                             color="textSecondary"
                         >
-                            JSS Journal of Scientific Studies
+                            Special Issue
                         </Typography>
                         <Typography variant="h4" gutterBottom>
-                            VOL 2 ISSUE 2
+                            11th National Conference on Advancements in
+                            Information Technology (NCAIT-2025)
+                        </Typography>
+                        <Typography variant="h5" gutterBottom>
+                            This special edition presents selected research
+                            contributions from the 11th National Conference on
+                            Advancements in Information Technology (NCAIT-2025),
+                            organized by the Department of Information Science
+                            and Engineering, JSS Academy of Technical Education,
+                            Bangalore, on 28th May 2025. Conducted under the
+                            Samyog Student Forum, NCAIT has emerged as a
+                            sustained academic platform over the past eleven
+                            years, fostering research dissemination and
+                            collaborative learning among students, academicians,
+                            and industry professionals. The theme of NCAIT-2025,
+                            “AI Brains & Infinite Memory”, focused on the
+                            rapidly evolving paradigm of artificial intelligence
+                            and its transformative impact on information
+                            technology, encompassing intelligent systems,
+                            data-driven decision making, and emerging
+                            computational models. This year we also had the
+                            support of IEEE - Information Theory Society student
+                            branch for the event.
+                            <br />
+                            The event was inaugurated by distinguished academic
+                            leaders and featured a keynote address by Mr.
+                            Pradeep M. P, Head of Cloud Security, Privacy &
+                            Compliance – Europe & Americas, Ericsson, Bengaluru,
+                            who highlighted the evolving role of AI from
+                            automation to advanced cognitive intelligence and
+                            its implications for future research and ethical
+                            innovation. Through technical sessions and scholarly
+                            discussions, NCAIT-2025 provided a vibrant forum for
+                            knowledge exchange, encouraging young researchers to
+                            explore emerging challenges and opportunities in
+                            Information technology. This special edition stands
+                            as a testament to the conference’s commitment to
+                            academic excellence, innovation, and research-driven
+                            learning.
                         </Typography>
                         <Divider />
                     </Grid>
@@ -171,7 +176,7 @@ const specialissue = () => {
                         headings={[
                             { heading: 'S.No', align: 'center' },
                             {
-                                heading: 'Volumne-2 Issue-2, January 2024',
+                                heading: 'Volumne-2 Issue-2, January 2025',
                                 align: 'center',
                             },
                             {
