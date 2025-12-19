@@ -24,7 +24,7 @@ const paperData = [
         authors: 'Ryan Gupta , Varsha R , Yuktha B Ramji, Suja Jayan',
         title: '“Chatbot for Ordering System”',
         page: '05-09',
-        link: '/journal/rejssjournal/paper_16.pdf',
+        link: '/journal/rejssjournal/Paper_16.pdf',
     },
     {
         authors: 'Pranava C Hiremath, Varsha R, Sreenivas Gurram , Rohith B',
