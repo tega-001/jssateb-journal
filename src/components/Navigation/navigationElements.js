@@ -33,6 +33,10 @@ export const navData = [
         title: 'CONTACT US',
         link: '/contact',
     },
+    {
+        title: 'SPECIAL ISSUE',
+        link: '/specialissue',
+    },
     // {
     //     title: 'FORM',
     //     link: '/form',
