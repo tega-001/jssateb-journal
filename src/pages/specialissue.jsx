@@ -122,7 +122,7 @@ const specialissue = () => {
                             11th National Conference on Advancements in
                             Information Technology (NCAIT-2025)
                         </Typography>
-                        <Typography variant="h5" gutterBottom>
+                        <Typography variant="h6" gutterBottom>
                             This special edition presents selected research
                             contributions from the 11th National Conference on
                             Advancements in Information Technology (NCAIT-2025),
